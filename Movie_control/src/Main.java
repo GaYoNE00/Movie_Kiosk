@@ -1,0 +1,10 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Login lg = new Login("인천점");
+//		StaffForm sf = new StaffForm("asd");
+		
+	}
+
+}
